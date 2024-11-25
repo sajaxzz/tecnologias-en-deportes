@@ -1,0 +1,54 @@
+/*BASQUET*/
+h1 {
+    background-color: #188d21;
+    font-family: 'Staatliches', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+  }
+
+h2 {
+  background-color: #d64c22e0;
+  font-family: 'Cabin', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"width" 100;
+}
+
+/*TECNOLOGIA EN DEPORTES*/
+.tech-h1 {
+  background-color: #5916a5;
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto; 
+  font-weight: 600;
+  font-style: normal;
+  font-size: 70px;
+  
+  text-align: center; 
+  padding: 20px;
+}
+
+.tech-h2 {
+  background-color: #2914d1;
+  color: white; 
+  font-family: "Montserrat", sans-serif;
+  padding: 10px; 
+  margin: 10px 0;
+}
+
+/*VOLEY*/
+.voley-h1 {
+
+  background-color: #1e7ebe; 
+  font-family: "Sixtyfour Convergence", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 50px;
+}
+
+.voley-h2{
+  background-color: #dbcf24;
+  color: rgb(189, 21, 21); 
+}
